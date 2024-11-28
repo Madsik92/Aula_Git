@@ -1,1 +1,3 @@
 A turma javascript06 é linda!
+
+Hello World! Estou livre da Maldição
